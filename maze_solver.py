@@ -1,5 +1,4 @@
 ### Author: Tanner Jackson
-### Class: CSc 120
 ### Description: This program is a maze solver. Which gets an input from
 ### the user and solves a maze printing out each step at a time. When
 ### a location is passed there is a period left to show that, the path
